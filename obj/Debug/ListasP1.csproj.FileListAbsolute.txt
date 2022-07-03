@@ -1,0 +1,10 @@
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\bin\Debug\ListasP1.exe.config
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\bin\Debug\ListasP1.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\bin\Debug\ListasP1.pdb
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.csproj.AssemblyReference.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.csproj.SuggestedBindingRedirects.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.Properties.Resources.resources
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.csproj.GenerateResource.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.csproj.CoreCompileInputs.cache
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.exe
+D:\05.Internet\Google Drive\00.Proyectos\03.C#\ListasP1\obj\Debug\ListasP1.pdb
